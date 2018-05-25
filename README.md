@@ -15,9 +15,13 @@ Ce jeu se joue à deux. Choisissez une tasse, puis le nombre de pierres de dépa
 Ce jeu a été programmé par trois personnes : Adem ABOUD, Moussa FERARMA et Mohamed Amine HABET.
 Sources : fiches de travaux pratiques python, https://openclassroom.com, https://youtube.com/, https://stackoverflow.com/.
 Les dépôts de liens Github sont :
+
 https://github.com/ferarma/projetNim
+
 https://github.com/ademaboud/projectnim
+
 https://github.com/amineh84/ProjectNIM
+
 
 #License
 None
